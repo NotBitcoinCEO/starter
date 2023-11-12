@@ -8,17 +8,17 @@
 /* Default Settings */
 
 :root {
-  --dark-blue: #34568b;
+  --dark-blue: #355c9c;
   /* Set default dark blue color */
-  --light-blue: #b5c7e3;
+  --light-blue: #3b64a5;
   /* Set default light blue color */
-  --blue: #4775d1;
+  --blue: #3d65b5;
   /* Set default blue color */
-  --dark-grey: #4b4d4e;
+  --dark-grey: #5b5e5f;
   /* Set default dark grey color */
-  --black: #252727;
+  --black: #0b0c0c;
   /* Set default black color */
-  --white: #ffffff;
+  --white: #f8f2f2;
   /* Set default white color */
 }
 

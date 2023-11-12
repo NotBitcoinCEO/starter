@@ -52,7 +52,7 @@ When you installed Git and cloned the remote repository in week 1, you should ha
 2. Add "/filename.html" to the end of the URL (replacing filename with the name of the file you moved to the public folder).
 3. You should see that page in the browser.
 
-USERNAME NAME PASS FOR RENDER
+<!-- USERNAME NAME PASS FOR RENDER for class purposes only
 
 USERNAME: cse340_database
-PASSWORD: NJ38J2JxAJZdPrUJBWnX3CrStogQZHrq
+PASSWORD: NJ38J2JxAJZdPrUJBWnX3CrStogQZHrq -->
